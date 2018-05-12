@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4891'
     url: http://www.gutenberg.org/2009/agents/4891
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13188#Putnam-s-Word-Book--13-A-Practical-Aid-in-Expressing-Ideas-Through-the-Use-of-an-Exact-and-Va_
 gutenberg_issued: '2004-08-15'
 gutenberg_type: Text
 identifiers:
