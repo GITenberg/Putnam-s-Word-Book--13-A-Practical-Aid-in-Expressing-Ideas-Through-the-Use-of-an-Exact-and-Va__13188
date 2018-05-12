@@ -1,0 +1,27 @@
+_repo: Putnam-s-Word-Book--13-A-Practical-Aid-in-Expressing-Ideas-Through-the-Use-of-an-Exact-and-Va__13188
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flemming, Louis A. (Louis Andrew)
+    alias: Flemming, Louis Andrew
+    birthdate: 1875
+    gutenberg_agent_id: '4891'
+    url: http://www.gutenberg.org/2009/agents/4891
+description: ''
+gutenberg_issued: '2004-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Synonyms and antonyms'
+- !lcc 'PE'
+title: "Putnam's Word Book\r\nA Practical Aid in Expressing Ideas Through the Use\
+  \ of an Exact and Varied Vocabulary"
+url: http://www.gutenberg.org/ebooks/13188
